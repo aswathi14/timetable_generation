@@ -1,0 +1,8 @@
+         'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'h7'
+monday      'dcs', 'maths', 'os', 'pp', 'DAA'
+Tuesday      'maths', 'pp', 'dcs', 'DAA', 'os'
+Wenesday      'dcs', 'maths', 'pp', 'DAA', 'os'
+Thursday      'DAA', 'os', 'maths', 'pp', 'dcs'
+Friday      'os', 'maths', 'DAA', 'pp', 'dcs'
+
+ Break Time is         'h3', 'h6'
